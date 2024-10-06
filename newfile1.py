@@ -1,2 +1,4 @@
-for i in range(1,100):
-    print(i)
+a=10
+b=20
+c=(a+b)
+print(c)
